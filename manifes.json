@@ -1,0 +1,17 @@
+{
+    "name": "Ejemplo1",
+    "short_name": "Gym",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./Ejemplo1/image_icono.png",
+            "type": "Ejemplo1.png",
+            "sizes": "600x400"
+        }
+    ]
+}
